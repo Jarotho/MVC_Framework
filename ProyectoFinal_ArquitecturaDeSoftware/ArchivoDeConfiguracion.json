@@ -1,0 +1,28 @@
+{
+    "ConfiguracionDeTransaccion": [
+        {
+            "TransaccionName": "HolaMundo",
+            "Control": "Prueba.MVC_Prueba.controladorTransacciones",
+            "Modelo": "Prueba.MVC_Prueba.ModeloPrueba",
+            "Funcion": "HolaMundo"
+        },
+        {
+            "TransaccionName": "AdiosMundo",
+            "Control": "Prueba.MVC_Prueba.controladorTransacciones",
+            "Modelo": "Prueba.MVC_Prueba.ModeloPrueba",
+            "Funcion": "AdiosMundo"
+        },
+        {
+            "TransaccionName": "FelizNavidad",
+            "Control": "Prueba.MVC_Prueba.controladorTransacciones",
+            "Modelo": "Prueba.MVC_Prueba.ModeloPrueba",
+            "Funcion": "FelizNavidad"
+        },
+        {
+            "TransaccionName": "HolaConsola",
+            "Control": "Prueba.MVC_Prueba.controladorTransacciones",
+            "Modelo": "Prueba.MVC_Prueba.ModeloPrueba",
+            "Funcion": "HolaConsola"
+        }
+    ]
+}
